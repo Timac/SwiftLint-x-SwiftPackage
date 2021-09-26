@@ -1,6 +1,6 @@
 # SucceedsPostAction.sh
 
-`SucceedsPostAction.sh` is a Bash script to be used as a 'Succeeds' post action in Xcode. This convenient script will automatically trigger [SwiftLint](https://github.com/realm/SwiftLint) when you compile a Swift Package.
+`SucceedsPostAction.sh` is a bash script to be used as a 'Succeeds' post action in Xcode. This convenient script will automatically trigger [SwiftLint](https://realm.github.io/SwiftLint/) when you compile a Swift Package.
 
 
 ## Why?
@@ -11,7 +11,7 @@ At the moment you can't easily trigger SwiftLint when compiling a Swift Package.
 ## Requirements
 
 - Xcode 13.0 or later
-- [SwiftLint](https://github.com/realm/SwiftLint) installed at `/usr/local/bin/swiftlint`
+- [SwiftLint](https://realm.github.io/SwiftLint/) installed at `/usr/local/bin/swiftlint`
 
 
 ## Installation
