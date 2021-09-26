@@ -42,11 +42,11 @@ A post action script running in Xcode can't add a log, a warning or an error to 
 
 Eimy is looking for SwiftUI experts to grow our truly usable consumer products team:
 
-❤️ SwiftUI
-🤓 State-of-the-art apps
-✨ Innovative consumer products
-🛠 Experienced team
-📍 Munich, Germany
+- ❤️ SwiftUI
+- 🤓 State-of-the-art apps
+- ✨ Innovative consumer products
+- 🛠 Experienced team
+- 📍 Munich, Germany
 
 👉 [https://www.geteimy.com/jobs](https://www.geteimy.com/jobs) 
 
