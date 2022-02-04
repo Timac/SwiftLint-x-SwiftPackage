@@ -20,8 +20,9 @@ At the moment you can't easily trigger SwiftLint when compiling a Swift Package.
 2. Ensure that the script has the proper permissions, i.e. run `chmod 755 SucceedsPostAction.sh`.
 3. If you want to use custom SwiftLint rules, add the `.swiftlint.yml` file next to the script.
 4. Launch Xcode 13.0 or later
-5. Open Preferences > Behaviors > Succeeds
-6. Choose the script `SucceedsPostAction.sh`
+5. Open Preferences > Locations and ensure that `Command Line Tools` is set to an Xcode version
+6. Open Preferences > Behaviors > Succeeds
+7. Choose the script `SucceedsPostAction.sh`
 
 ![](Installation.png)
 
