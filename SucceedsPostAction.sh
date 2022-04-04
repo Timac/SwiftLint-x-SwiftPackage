@@ -20,7 +20,11 @@
 SWIFTLINT_PATH="/usr/local/bin/swiftlint"
 if ! [ -x "${SWIFTLINT_PATH}" ]
 then
-    exit 0
+	SWIFTLINT_PATH="/opt/homebrew/bin/swiftlint"
+	if ! [ -x "${SWIFTLINT_PATH}" ]
+	then
+	    exit 0
+	fi
 fi
 
 
